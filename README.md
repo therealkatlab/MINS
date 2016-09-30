@@ -1,6 +1,6 @@
 # Modular interactive nuclear segmentation (MINS)
 
-This repository holds the code for the software **MINS** (modular interactive nuclear segmentation), develolped by Xinghua Lou in [Kat Hadjantonakis' lab](https://www.mskcc.org/research-areas/labs/anna-katerina-hadjantonakis ‘Kat Lab website’), at Sloan Kettering Institute and published in [Stem Cell Reports in 2014](http://www.sciencedirect.com/science/article/pii/S2213671114000277 'Lou et al'). 
+This repository holds the code for the software **MINS** (modular interactive nuclear segmentation), develolped by Xinghua Lou in [Kat Hadjantonakis' lab](https://www.mskcc.org/research-areas/labs/anna-katerina-hadjantonakis), at Sloan Kettering Institute and published in [Stem Cell Reports in 2014](http://www.sciencedirect.com/science/article/pii/S2213671114000277 'Lou et al'). 
 
 ## From the paper's Methods section:
 
